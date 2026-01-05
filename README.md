@@ -44,3 +44,9 @@ python visualize.py "Emma Watson" "Jennifer Lawrence"
 This generates graph.html, which you can open in your browser.
 ```bash
 pip install networkx pyvis
+
+
+Why We Used PyVis in This Project
+Short answer:
+
+PyVis lets us turn an abstract graph algorithm (BFS) into an interactive, explainable visual graph using Python only.
